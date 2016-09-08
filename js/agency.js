@@ -28,6 +28,14 @@
         offset: {
             top: 100
         }
-    })
+    });
 
 })(jQuery); // End of use strict
+
+$(document).ready(function() {
+  //Set the carousel options
+  $('#quote-carousel').carousel({
+    pause: true,
+    interval: 4000,
+  });
+});
