@@ -859,7 +859,17 @@ body {
 }
 
 /* Instagram Photos */
-.col-sm-4 img {
+.col-sm-4 .instagram {
   padding: 10px;
   border-radius: 10%;
+}
+.btn-success i{
+    padding-right: 10px;
+}
+
+.btn-success {
+    background-color: #517FA4;
+    margin-left: 29%;
+    margin-top: 8%;
+    width: 40%;
 }
