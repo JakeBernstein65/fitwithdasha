@@ -857,3 +857,9 @@ body {
         height: 20px;
     }
 }
+
+/* Instagram Photos */
+.col-sm-4 img {
+  padding: 10px;
+  border-radius: 10%;
+}
