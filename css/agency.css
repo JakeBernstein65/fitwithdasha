@@ -1,8 +1,3 @@
-/*!
- * Start Bootstrap - Agency v3.3.7+1 (http://startbootstrap.com/template-overviews/agency)
- * Copyright 2013-2016 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
- */
 body {
   overflow-x: hidden;
   font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -295,7 +290,7 @@ section h3.section-subheading {
 }
 @media (min-width: 768px) {
   section {
-    padding: 150px 0;
+    padding: 98px 0;
   }
 }
 .service-heading {
@@ -559,7 +554,6 @@ aside.clients img {
 }
 section#contact {
   background-color: #222222;
-  background-image: url('../img/map-image.png');
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -749,7 +743,7 @@ body {
   webkit-tap-highlight-color: #fed136;
 }
 
-/*  ------ carousel -------- */
+/*  ------ carousel - testimonials-------- */
 #quote-carousel 
 {
   padding: 0 10px 30px 10px;
@@ -858,6 +852,17 @@ body {
     }
 }
 
+#quote-carousel small {
+    text-align: right;
+    font-size: x-large;
+}
+
+#quote-carousel p {
+    font-size: 20px;
+    line-height: 2.0;
+    font-weight: 400;
+}
+
 /* Instagram Photos */
 .col-sm-4 .instagram {
   padding: 10px;
@@ -872,4 +877,14 @@ body {
     margin-left: 29%;
     margin-top: 8%;
     width: 40%;
+    color: #FFFFFF
+}
+.btn-success:hover{
+  background-color: #385771;
+}
+
+.btn-success:focus,
+.btn-success:active,
+.btn-success:after {
+  background-color: #517FA4;
 }
