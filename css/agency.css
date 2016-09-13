@@ -864,6 +864,19 @@ body {
         width: 20px;
         height: 20px;
     }
+
+    #testimonials .container {
+    height: 1004px;
+    }
+
+    #instagram .btn-success {
+    margin-left: 11%;
+    margin-top: 10%;
+    margin-bottom: -29px;
+    width: 77%;
+    height: 52px;
+    }
+
 }
 
 #quote-carousel small {
