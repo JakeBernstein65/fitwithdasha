@@ -614,6 +614,15 @@ section#contact .text-danger {
   color: #e74c3c;
 }
 
+section#contact .container {
+  text-align: center;
+  color: whitesmoke;
+}
+
+section#contact h3 {
+  line-height: 42px;
+}
+
 section#about h2 {
   color: #ffffff
 }
