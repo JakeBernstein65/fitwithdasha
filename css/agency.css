@@ -808,12 +808,6 @@ body {
 {
   background: #333333;
 }
-/*#quote-carousel img
-{
-  width: 250px;
-  height: 100px
-}*/
-/* End carousel */
 
 .item blockquote {
     border-left: none; 
@@ -830,6 +824,8 @@ body {
     float: left;
     margin-right: 10px;
 }
+
+/* End carousel */
 
 
 
@@ -875,9 +871,9 @@ body {
     font-size: x-large;
 }
 
-.item blockquote {
+/*.item blockquote {
     height: 464px;
-}
+}*/
 
 #quote-carousel p {
     font-size: 20px;
