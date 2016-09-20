@@ -874,8 +874,8 @@ body {
         height: 20px;
     }
 
-    #testimonials .container {
-    height: 1304px;
+    #testimonials .container .outer-container {
+    height: 1004px;
     }
 
     #instagram .btn-success {
