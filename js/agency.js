@@ -66,9 +66,9 @@ var displayPhotos = function(data){
     get: 'user',
     sortBy: 'most-recent',
     limit: '9',
-    userId: '195466018',
-    clientId: '9c24412f934842d397b5a0e360af1d6a',
-    accessToken: '195466018.1677ed0.63a32368f14c44c39d2667c9908eaad8',
+    userId: '1725683963',
+    clientId: 'dd97613a17cd402ca6ad2c67d4a95912',
+    accessToken: '1725683963.1677ed0.3c55762aae97419288d415df9ca47a34',
     success: function(data){
         displayPhotos(data);
         }
