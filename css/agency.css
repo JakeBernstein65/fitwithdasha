@@ -874,8 +874,8 @@ body {
         height: 20px;
     }
 
-    #testimonials .carousel {
-    height: 1004px; /*   make carousel stop on mobile */
+    #testimonials .carousel{
+      height: 1004px;
     }
 
     #instagram .btn-success {
