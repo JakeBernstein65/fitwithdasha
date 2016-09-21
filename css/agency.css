@@ -928,3 +928,6 @@ body {
 .btn-success:after {
   background-color: #517FA4;
 }
+
+span a {
+  font-size: initial;
