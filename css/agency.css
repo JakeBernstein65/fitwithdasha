@@ -902,6 +902,13 @@ body {
 
 }
 
+@media (max-width: 500px){
+
+  #testimonials .carousel{
+      height: 1304px;
+  }
+}
+
 #quote-carousel small {
     text-align: right;
     font-size: x-large;
