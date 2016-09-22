@@ -49,17 +49,6 @@ var displayPhotos = function(data){
         var curImage =  document.getElementById("image" + i);
         curImage.src = imageList[i].images.standard_resolution.url;
     };
-    
-    // var template = document.getElementById('template');
-
-    // $("#first").width(template.width);
-    // $("#first").height(template.height);
-
-    // console.log(template.height);
-    // console.log(template.width);
-
-    // console.log(curImage.height);
-    // console.log(curImage.width);
 }
 
  var feed = new Instafeed({
