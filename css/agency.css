@@ -867,6 +867,10 @@ body {
     font-size: initial;
   }
 
+  header {
+    margin-top: 54px;
+  }
+
     /* Make the indicators larger for easier clicking with fingers/thumb on mobile */
     
     #quote-carousel .carousel-indicators {
